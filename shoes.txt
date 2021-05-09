@@ -1,0 +1,5 @@
+no_equipment,0,0,
+leather_shoes,1,-3,
+leather_boots,5,2,
+iron_greave,7,4,
+iron_leggings,9,6,

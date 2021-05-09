@@ -1,0 +1,5 @@
+no_equipment,0,0,
+leather_plate,1,-5,
+leather_armor,3,4,
+iron_plate,4,4,
+iron_armor,6,6,

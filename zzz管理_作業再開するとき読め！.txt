@@ -1,0 +1,24 @@
+再開するときに読むこと！
+maintownは割と完成してる
+今はdungeon実装中
+キャラの情報をExcelから読み取りたい
+けどあきらめてテキストファイルから読み取るようにした。
+そのあとダンジョン実装
+ダンジョン終わるタイミングでテキストファイルを書き換えたい
+gitとgithubがわからん！勉強やな
+
+
+
+maintownを実行する
+dungeon shop inn
+battle
+
+DB(今回はテキストファイルで実装)
+character monster dungeons
+weapon armor
+
+つかった技術
+java.io.File
+java.io.FileWriter
+java.io.BufferedWriter
+java.io.IOException

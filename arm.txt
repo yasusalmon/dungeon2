@@ -1,0 +1,5 @@
+no_equipment,0,0,
+leather_glove,1,-2,
+leather_gauntlet,2,0,
+iron_glove,3,3,
+iron_gauntlet,5,4,

@@ -1,0 +1,4 @@
+no_equipment,0,0,
+leather_mask,1,-5,
+leather_helm,3,4,
+iron_helm,5,6,

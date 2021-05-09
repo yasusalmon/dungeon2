@@ -1,0 +1,5 @@
+no_equipment,0,0,
+iron_shortsword,3,15,
+iron_sword,5,8,
+iron_longsword,7,2,
+iron_hammer,12,-5,
