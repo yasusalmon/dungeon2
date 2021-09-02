@@ -1,0 +1,14 @@
+issue -> branch -> add -> commit -> push、pull request -> merge
+
+
+
+git clone
+作業
+git branch ここに適当なブランチの名前　（ブランチの作成）
+git checkout 適当なブランチの名前　（カレントディレクトリというか現在のブランチを作ったブランチに移動）
+git add . (ブランチに現在地を追加）
+git commit -m"コメントをここに" （ブランチに変更を追加）
+git remote -v （一応確認。何の意味があるのかは知らない）
+git push origin 適当なブランチの名前　（これでgithubにブランチを作ってそこにcommitできた）
+
+このあと、githubのサイトで、branchをpullrequestして、margeして、終了！
